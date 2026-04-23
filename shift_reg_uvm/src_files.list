@@ -1,0 +1,7 @@
+shift_reg.v
+shift_reg_if.sv
+config_pkg.sv
+shift_reg_driver.sv
+shift_reg_env.sv
+shift_reg_test.sv
+top.sv
